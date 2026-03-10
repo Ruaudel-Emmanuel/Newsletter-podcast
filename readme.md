@@ -1,11 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Créez moi un fichier readme en anglais
-
-Here is a concise README in English you can place next to `newsletter-podcast.json`.[^1]
-
-***
-
 # Newsletter to Audio Template (n8n Workflow)
 
 This project is an n8n workflow that converts written newsletters from your inbox into a conversational audio podcast between two AI voices.[^1]
